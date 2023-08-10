@@ -1,4 +1,4 @@
-[Mail](#mail)
+[You've Got Mail!](#mail)
 =============
 
 Demo video: https://youtu.be/gr1yNFlHMCI
